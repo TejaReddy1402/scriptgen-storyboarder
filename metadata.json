@@ -1,0 +1,5 @@
+{
+  "name": "Scriptgen Storyboarder",
+  "description": "An AI-powered storyboard assistant that transforms scripts into visual scene sequences with camera angles and composition suggestions.",
+  "requestFramePermissions": []
+}
